@@ -19,7 +19,11 @@ From within the app, the group organizer creates an event, then sends invites to
 * [Express](https://expressjs.com/) web framework for Node.js middleware
 * [Socket.io](socket.io) chat websocket management
 * [Postman](postman.io) manage API buildcycle
+* [Three.js](https://www.npmjs.com/package/three) 3D library and WebGL renderer
+* [Inkscape](https://inkscape.org/) vector graphics software
 
+## Credits
+[Termly](https://app.termly.io/dashboard/website/291545/terms-of-service) for the ToS and Privacy Policy documentation
 ------------------------------------------------------------------------------------
 below here is boilerplate
 
