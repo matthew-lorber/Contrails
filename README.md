@@ -11,13 +11,11 @@ From within the app, the group organizer creates an event, then sends invites to
 
 
 ## Technology
-* [Justinmind](https://www.justinmind.com/) open source prototyper similar to Adobe XD
 * [React Native](https://facebook.github.io/react-native/) JavaScript to native platform renderer
-* [Expo](expo.com) 3rd party React wrapper for rapid development
+* [Expo](expo.com) 3rd party React wrapper
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) SQL database administration tool
 * [Node.js](https://nodejs.org/en/) javascript runtime
 * [Express](https://expressjs.com/) web framework for Node.js middleware
-* [Socket.io](socket.io) chat websocket management
 * [Postman](postman.io) manage API buildcycle
 * [Three.js](https://www.npmjs.com/package/three) 3D library and WebGL renderer
 * [Inkscape](https://inkscape.org/) vector graphics software

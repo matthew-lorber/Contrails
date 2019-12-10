@@ -9,13 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="418.75439mm"
-   height="267.39264mm"
-   viewBox="0 0 418.75439 267.39264"
+   width="420mm"
+   height="268mm"
+   viewBox="0 0 420 268"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="logo_tween.svg">
+  <title
+     id="title844">contrails_logo_tween</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
      inkscape:cx="1168.2137"
-     inkscape:cy="684.05964"
+     inkscape:cy="677.66635"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +41,8 @@
      inkscape:window-height="715"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showborder="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,7 +51,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>contrails_logo_tween</dc:title>
+        <dc:date>10dec2019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>matthewlorber</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>MITlicense</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>contrails</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,80 +75,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(618.01844,-38.256277)">
-    <path
-       style="fill:#7f003f;fill-opacity:1;stroke:none;stroke-width:0.19805951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -618.01844,235.40246 210.50896,-97.33211 208.24544,99.02976 -82.61912,-1.13175 -125.62632,-97.89801 -129.02162,97.89799 z"
-       id="path815"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+     transform="translate(618.01844,-35.957366)">
     <g
-       id="g855"
-       transform="matrix(0.54514298,0,0,0.54514298,-595.86763,38.80142)">
-      <g
-         id="g822">
-        <title
-           id="title819">background</title>
-        <rect
-           x="-1"
-           y="-1"
-           width="582"
-           height="402"
-           id="canvas_background"
-           style="fill:none" />
-      </g>
-      <g
-         id="g833">
-        <title
-           id="title824">Layer 1</title>
-        <circle
-           class="st0"
-           cx="259.70001"
-           cy="68.099998"
-           r="45.599998"
-           id="svg_2"
-           style="fill:#7f003f" />
-        <path
-           class="st0"
-           d="m 194,195.8 c -7,-7.6 -11,-17.7 -10.9,-28.2 0,-1.5 0.1,-3 0.3,-4.4 h -30.3 v 142.3 h 45.6 z"
-           id="svg_3"
-           inkscape:connector-curvature="0"
-           style="fill:#7f003f" />
-        <polygon
-           class="st0"
-           points="231.8,489.5 265.1,351.2 263.2,350.4 211.7,329.9 197.1,489.5 "
-           id="svg_4"
-           style="fill:#7f003f" />
-        <path
-           class="st0"
-           d="m 236.6,144 c -4.1,-2.1 -8.3,-3.1 -12.5,-3.1 -8.5,0 -16.6,4.1 -21.6,10.8 -0.6,0.8 -1.1,1.6 -1.6,2.4 -1.6,2.7 -2.8,5.7 -3.3,9 -0.3,1.5 -0.4,3 -0.4,4.6 -0.1,8.6 4,16.6 10.6,21.7 1.6,1.2 3.4,2.3 5.4,3.2 l 39.4,15.5 32.3,12.7 26,10.2 83.9,-56.5 -13.8,-22.6 -75.6,33.3 z"
-           id="svg_5"
-           inkscape:connector-curvature="0"
-           style="fill:#7f003f" />
-        <polygon
-           class="st0"
-           points="321.1,358.5 332.6,489.5 367,489.5 380.9,328.6 281.5,274.4 283.9,235.5 247.4,221.1 208.4,205.8 212.7,305.5 213.1,315.4 268.4,337.4 276,340.5 "
-           id="svg_6"
-           style="fill:#7f003f" />
-        <rect
-           class="st0"
-           height="91.599998"
-           width="21.799999"
-           x="117.3"
-           y="214"
-           id="svg_7"
-           style="fill:#7f003f" />
-        <path
-           class="st0"
-           d="m 187.6,149.2 c 0.4,-0.8 0.8,-1.5 1.3,-2.3 l 0.4,-0.7 0.5,-0.6 c 0.2,-0.3 0.4,-0.6 0.6,-0.9 l 0.4,-0.7 0.5,-0.7 c 3.8,-5 8.7,-9.1 14.2,-11.9 -2.9,-11.8 -13.5,-20.5 -26.2,-20.5 -14.9,0 -27,12.1 -27,27 0,4 0.9,7.9 2.5,11.3 z"
-           id="svg_8"
-           inkscape:connector-curvature="0"
-           style="fill:#7f003f" />
-      </g>
-    </g>
-    <g
-       id="g887"
-       transform="matrix(0.41265648,0,0,0.41265648,-536.11844,70.493087)">
+       id="compass"
+       transform="matrix(0.41265648,0,0,0.41265648,-514.24696,68.801537)"
+       inkscape:label="#g887">
       <g
          id="g860">
         <title
@@ -169,5 +119,77 @@
            style="fill:#7f003f" />
       </g>
     </g>
+    <g
+       id="hiker"
+       transform="matrix(0.54514298,0,0,0.54514298,-573.99615,37.10987)"
+       inkscape:label="#g855">
+      <g
+         id="g822">
+        <title
+           id="title819">background</title>
+        <rect
+           x="-1"
+           y="-1"
+           width="582"
+           height="402"
+           id="canvas_background"
+           style="fill:none" />
+      </g>
+      <g
+         id="g833">
+        <title
+           id="title824">Layer 1</title>
+        <circle
+           class="st0"
+           cx="259.70001"
+           cy="68.099998"
+           r="45.599998"
+           id="svg_2"
+           style="fill:#7f003f" />
+        <path
+           class="st0"
+           d="m 194,195.8 c -7,-7.6 -11,-17.7 -10.9,-28.2 0,-1.5 0.1,-3 0.3,-4.4 h -30.3 v 142.3 h 45.6 z"
+           id="svg_3"
+           inkscape:connector-curvature="0"
+           style="fill:#7f003f" />
+        <polygon
+           class="st0"
+           points="211.7,329.9 197.1,489.5 231.8,489.5 265.1,351.2 263.2,350.4 "
+           id="svg_4"
+           style="fill:#7f003f" />
+        <path
+           class="st0"
+           d="m 236.6,144 c -4.1,-2.1 -8.3,-3.1 -12.5,-3.1 -8.5,0 -16.6,4.1 -21.6,10.8 -0.6,0.8 -1.1,1.6 -1.6,2.4 -1.6,2.7 -2.8,5.7 -3.3,9 -0.3,1.5 -0.4,3 -0.4,4.6 -0.1,8.6 4,16.6 10.6,21.7 1.6,1.2 3.4,2.3 5.4,3.2 l 39.4,15.5 32.3,12.7 26,10.2 83.9,-56.5 -13.8,-22.6 -75.6,33.3 z"
+           id="svg_5"
+           inkscape:connector-curvature="0"
+           style="fill:#7f003f" />
+        <polygon
+           class="st0"
+           points="212.7,305.5 213.1,315.4 268.4,337.4 276,340.5 321.1,358.5 332.6,489.5 367,489.5 380.9,328.6 281.5,274.4 283.9,235.5 247.4,221.1 208.4,205.8 "
+           id="svg_6"
+           style="fill:#7f003f" />
+        <rect
+           class="st0"
+           height="91.599998"
+           width="21.799999"
+           x="117.3"
+           y="214"
+           id="svg_7"
+           style="fill:#7f003f" />
+        <path
+           class="st0"
+           d="m 187.6,149.2 c 0.4,-0.8 0.8,-1.5 1.3,-2.3 l 0.4,-0.7 0.5,-0.6 c 0.2,-0.3 0.4,-0.6 0.6,-0.9 l 0.4,-0.7 0.5,-0.7 c 3.8,-5 8.7,-9.1 14.2,-11.9 -2.9,-11.8 -13.5,-20.5 -26.2,-20.5 -14.9,0 -27,12.1 -27,27 0,4 0.9,7.9 2.5,11.3 z"
+           id="svg_8"
+           inkscape:connector-curvature="0"
+           style="fill:#7f003f" />
+      </g>
+    </g>
+    <path
+       style="fill:#7f003f;fill-opacity:1;stroke:none;stroke-width:0.19805951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -618.01844,235.40246 210.50896,-97.33211 208.24544,99.02976 -82.61912,-1.13175 -125.62632,-97.89801 -129.02162,97.89799 z"
+       id="logo"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="#path815" />
   </g>
 </svg>
