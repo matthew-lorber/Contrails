@@ -12,13 +12,18 @@ From within the app, the group organizer creates an event, then sends invites to
 
 ## Technology
 * [React Native](https://facebook.github.io/react-native/) JavaScript to native platform renderer
-* [Expo](expo.com) 3rd party React wrapper
+* [Expo SDK](expo.com) 3rd party React wrapper
+* [Java SE SDK](oracle.com)
+* [Python 3.7]()
+* [Android Studio]()
+* [Ubuntu 16.04]() used with WSL to run command line utilities
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) SQL database administration tool
 * [Node.js](https://nodejs.org/en/) javascript runtime
 * [Express](https://expressjs.com/) web framework for Node.js middleware
 * [Postman](postman.io) manage API buildcycle
 * [Three.js](https://www.npmjs.com/package/three) 3D library and WebGL renderer
 * [Inkscape](https://inkscape.org/) vector graphics software
+* [Firebase](firebase.google.com) temporary user location storage
 
 ## Credits
 [Termly](https://app.termly.io/dashboard/website/291545/terms-of-service) for the ToS and Privacy Policy documentation
